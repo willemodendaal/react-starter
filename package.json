@@ -1,7 +1,7 @@
 {
-  "name": "willem-css-play",
+  "name": "willem-react-starter",
   "version": "1.0.0",
-  "description": "Just to play with modern CSS",
+  "description": "Boilerplate project to get started with React, Babel and Webpack4",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
